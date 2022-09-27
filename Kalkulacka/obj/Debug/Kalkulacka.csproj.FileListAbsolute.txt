@@ -1,0 +1,7 @@
+C:\Users\prachar.ad.2022\source\repos\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+C:\Users\prachar.ad.2022\source\repos\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.exe
+C:\Users\prachar.ad.2022\source\repos\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.pdb
+C:\Users\prachar.ad.2022\source\repos\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.csprojAssemblyReference.cache
+C:\Users\prachar.ad.2022\source\repos\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\prachar.ad.2022\source\repos\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.exe
+C:\Users\prachar.ad.2022\source\repos\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.pdb
